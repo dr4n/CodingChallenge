@@ -1,2 +1,2 @@
 # CodingChallenge
-Coding Challenges
+Coding Challenges.
